@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://granstep.github.io/csb-ml0o9j/static/css/main.c1fca745.chunk.css",
+    "main.js": "https://granstep.github.io/csb-ml0o9j/static/js/main.c5b0f711.chunk.js",
+    "main.js.map": "https://granstep.github.io/csb-ml0o9j/static/js/main.c5b0f711.chunk.js.map",
+    "runtime-main.js": "https://granstep.github.io/csb-ml0o9j/static/js/runtime-main.9f338df7.js",
+    "runtime-main.js.map": "https://granstep.github.io/csb-ml0o9j/static/js/runtime-main.9f338df7.js.map",
+    "static/js/2.aaeda410.chunk.js": "https://granstep.github.io/csb-ml0o9j/static/js/2.aaeda410.chunk.js",
+    "static/js/2.aaeda410.chunk.js.map": "https://granstep.github.io/csb-ml0o9j/static/js/2.aaeda410.chunk.js.map",
+    "index.html": "https://granstep.github.io/csb-ml0o9j/index.html",
+    "static/css/main.c1fca745.chunk.css.map": "https://granstep.github.io/csb-ml0o9j/static/css/main.c1fca745.chunk.css.map",
+    "static/js/2.aaeda410.chunk.js.LICENSE.txt": "https://granstep.github.io/csb-ml0o9j/static/js/2.aaeda410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f338df7.js",
+    "static/js/2.aaeda410.chunk.js",
+    "static/css/main.c1fca745.chunk.css",
+    "static/js/main.c5b0f711.chunk.js"
+  ]
+}
